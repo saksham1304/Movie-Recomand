@@ -61,7 +61,7 @@ To run the Movie Recommendation System, follow these steps:
 
 ## Credits
 
-The Movie Recommendation System project was developed by Mridul Gupta in 2021. 
+The Movie Recommendation System project was developed by Saksham Gupta in 2023. 
 
 ## Deployement
 
