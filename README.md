@@ -8,7 +8,7 @@ This Movie Recommendation System project is designed to provide movie recommenda
 
 ## Project Duration
 
-The development of this Movie Recommendation System took place from September 2021 to November 2021.
+The development of this Movie Recommendation System took place from September 2023 to November 2023.
 
 ## Features
 
@@ -34,7 +34,7 @@ To run the Movie Recommendation System, follow these steps:
 1. Clone the project repository from GitHub:
 
    ```
-   git clone <https://github.com/MridulGupta75/movierecomand>
+   git clone <https://github.com/saksham1304/movierecomand>
    ```
 
 2. Install the required dependencies using pip:
@@ -67,5 +67,5 @@ The Movie Recommendation System project was developed by Mridul Gupta in 2021.
 
 Deployed on streamlit
 Deployment link
-https://share.streamlit.io/mridulgupta75/movierecomand/main/app.py
+https:https://sakshamgupta.streamlit.app/
 
